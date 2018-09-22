@@ -1,0 +1,8 @@
+[
+  {
+    "package": "patchwork",
+    "url": "https://github.com/thomasp85/patchwork",
+    "via": ["hierarchicalSets"],
+    "from": "hierarchicalSets"
+  }
+]

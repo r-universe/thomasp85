@@ -1,3 +1,72 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "ambient"]
+	path = ambient
+	url = https://github.com/thomasp85/ambient
+	shallow = true
+[submodule "curry"]
+	path = curry
+	url = https://github.com/thomasp85/curry
+	shallow = true
+[submodule "farver"]
+	path = farver
+	url = https://github.com/thomasp85/farver
+	shallow = true
+[submodule "fiery"]
+	path = fiery
+	url = https://github.com/thomasp85/fiery
+	shallow = true
+[submodule "gganimate"]
+	path = gganimate
+	url = https://github.com/thomasp85/gganimate
+	shallow = true
+[submodule "ggforce"]
+	path = ggforce
+	url = https://github.com/thomasp85/ggforce
+	shallow = true
+[submodule "ggraph"]
+	path = ggraph
+	url = https://github.com/thomasp85/ggraph
+	shallow = true
+[submodule "lime"]
+	path = lime
+	url = https://github.com/thomasp85/lime
+	shallow = true
+[submodule "particles"]
+	path = particles
+	url = https://github.com/thomasp85/particles
+	shallow = true
+[submodule "patchwork"]
+	path = patchwork
+	url = https://github.com/thomasp85/patchwork
+	shallow = true
+[submodule "reqres"]
+	path = reqres
+	url = https://github.com/thomasp85/reqres
+	shallow = true
+[submodule "routr"]
+	path = routr
+	url = https://github.com/thomasp85/routr
+	shallow = true
+[submodule "scico"]
+	path = scico
+	url = https://github.com/thomasp85/scico
+	shallow = true
+[submodule "shinyFiles"]
+	path = shinyFiles
+	url = https://github.com/thomasp85/shinyfiles
+	shallow = true
+[submodule "tidygraph"]
+	path = tidygraph
+	url = https://github.com/thomasp85/tidygraph
+	shallow = true
+[submodule "transformr"]
+	path = transformr
+	url = https://github.com/thomasp85/transformr
+	shallow = true
+[submodule "tweenr"]
+	path = tweenr
+	url = https://github.com/thomasp85/tweenr
+	shallow = true

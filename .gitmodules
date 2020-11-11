@@ -2,71 +2,89 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "ambient"]
 	path = ambient
 	url = https://github.com/thomasp85/ambient
 	shallow = true
+	branch = HEAD
 [submodule "curry"]
 	path = curry
 	url = https://github.com/thomasp85/curry
 	shallow = true
+	branch = HEAD
 [submodule "farver"]
 	path = farver
 	url = https://github.com/thomasp85/farver
 	shallow = true
+	branch = HEAD
 [submodule "fiery"]
 	path = fiery
 	url = https://github.com/thomasp85/fiery
 	shallow = true
+	branch = HEAD
 [submodule "gganimate"]
 	path = gganimate
 	url = https://github.com/thomasp85/gganimate
 	shallow = true
+	branch = HEAD
 [submodule "ggforce"]
 	path = ggforce
 	url = https://github.com/thomasp85/ggforce
 	shallow = true
+	branch = HEAD
 [submodule "ggraph"]
 	path = ggraph
 	url = https://github.com/thomasp85/ggraph
 	shallow = true
+	branch = HEAD
 [submodule "lime"]
 	path = lime
 	url = https://github.com/thomasp85/lime
 	shallow = true
+	branch = HEAD
 [submodule "particles"]
 	path = particles
 	url = https://github.com/thomasp85/particles
 	shallow = true
+	branch = HEAD
 [submodule "patchwork"]
 	path = patchwork
 	url = https://github.com/thomasp85/patchwork
 	shallow = true
+	branch = HEAD
 [submodule "reqres"]
 	path = reqres
 	url = https://github.com/thomasp85/reqres
 	shallow = true
+	branch = HEAD
 [submodule "routr"]
 	path = routr
 	url = https://github.com/thomasp85/routr
 	shallow = true
+	branch = HEAD
 [submodule "scico"]
 	path = scico
 	url = https://github.com/thomasp85/scico
 	shallow = true
+	branch = HEAD
 [submodule "shinyFiles"]
 	path = shinyFiles
 	url = https://github.com/thomasp85/shinyfiles
 	shallow = true
+	branch = HEAD
 [submodule "tidygraph"]
 	path = tidygraph
 	url = https://github.com/thomasp85/tidygraph
 	shallow = true
+	branch = HEAD
 [submodule "transformr"]
 	path = transformr
 	url = https://github.com/thomasp85/transformr
 	shallow = true
+	branch = HEAD
 [submodule "tweenr"]
 	path = tweenr
 	url = https://github.com/thomasp85/tweenr
 	shallow = true
+	branch = HEAD

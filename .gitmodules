@@ -71,3 +71,11 @@
 	path = tweenr
 	url = https://github.com/thomasp85/tweenr
 	shallow = true
+[submodule "FindMyFriends"]
+	path = FindMyFriends
+	url = https://github.com/thomasp85/findmyfriends
+	shallow = true
+[submodule "PanVizGenerator"]
+	path = PanVizGenerator
+	url = https://github.com/thomasp85/panvizgenerator
+	shallow = true

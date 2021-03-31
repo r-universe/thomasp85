@@ -27,6 +27,10 @@
 	path = ggforce
 	url = https://github.com/thomasp85/ggforce
 	shallow = true
+[submodule "ggfx"]
+	path = ggfx
+	url = https://github.com/thomasp85/ggfx
+	shallow = true
 [submodule "ggraph"]
 	path = ggraph
 	url = https://github.com/thomasp85/ggraph

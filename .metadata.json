@@ -1,0 +1,82 @@
+[
+  {
+    "package": "ambient",
+    "oncran": true
+  },
+  {
+    "package": "curry",
+    "oncran": true
+  },
+  {
+    "package": "farver",
+    "oncran": true
+  },
+  {
+    "package": "fiery",
+    "oncran": true
+  },
+  {
+    "package": "gganimate",
+    "oncran": true
+  },
+  {
+    "package": "ggforce",
+    "oncran": true
+  },
+  {
+    "package": "ggfx",
+    "oncran": true
+  },
+  {
+    "package": "ggraph",
+    "oncran": true
+  },
+  {
+    "package": "lime",
+    "oncran": true
+  },
+  {
+    "package": "particles",
+    "oncran": true
+  },
+  {
+    "package": "patchwork",
+    "oncran": true
+  },
+  {
+    "package": "reqres",
+    "oncran": true
+  },
+  {
+    "package": "routr",
+    "oncran": true
+  },
+  {
+    "package": "scico",
+    "oncran": true
+  },
+  {
+    "package": "shinyFiles",
+    "oncran": true
+  },
+  {
+    "package": "tidygraph",
+    "oncran": true
+  },
+  {
+    "package": "transformr",
+    "oncran": true
+  },
+  {
+    "package": "tweenr",
+    "oncran": true
+  },
+  {
+    "package": "FindMyFriends",
+    "oncran": true
+  },
+  {
+    "package": "PanVizGenerator",
+    "oncran": true
+  }
+]

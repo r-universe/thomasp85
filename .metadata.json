@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "densityClust",
+    "oncran": true
+  },
+  {
     "package": "farver",
     "oncran": true
   },

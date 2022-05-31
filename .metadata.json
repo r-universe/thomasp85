@@ -76,9 +76,9 @@
     "oncran": true
   },
   {
-    "package": "PanVizGenerator"
+    "package": "FindMyFriends"
   },
   {
-    "package": "FindMyFriends"
+    "package": "PanVizGenerator"
   }
 ]

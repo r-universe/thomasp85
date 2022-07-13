@@ -98,3 +98,13 @@
 	url = https://github.com/thomasp85/tweenr
 	shallow = true
 	registered = true
+[submodule "FindMyFriends"]
+	path = FindMyFriends
+	url = https://github.com/thomasp85/findmyfriends
+	shallow = true
+	registered = true
+[submodule "PanVizGenerator"]
+	path = PanVizGenerator
+	url = https://github.com/thomasp85/panvizgenerator
+	shallow = true
+	registered = true

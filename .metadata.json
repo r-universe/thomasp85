@@ -74,5 +74,11 @@
   {
     "package": "tweenr",
     "oncran": true
+  },
+  {
+    "package": "FindMyFriends"
+  },
+  {
+    "package": "PanVizGenerator"
   }
 ]

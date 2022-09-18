@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "fiery",
-    "oncran": true
-  },
-  {
     "package": "gganimate",
     "oncran": true
   },

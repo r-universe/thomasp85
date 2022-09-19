@@ -23,6 +23,11 @@
 	url = https://github.com/thomasp85/farver
 	shallow = true
 	registered = true
+[submodule "fiery"]
+	path = fiery
+	url = https://github.com/thomasp85/fiery
+	shallow = true
+	registered = true
 [submodule "gganimate"]
 	path = gganimate
 	url = https://github.com/thomasp85/gganimate

@@ -1,26 +1,14 @@
 [
   {
-    "package": "lime",
-    "oncran": true
-  },
-  {
-    "package": "ggforce",
-    "oncran": true
-  },
-  {
-    "package": "transformr",
-    "oncran": true
-  },
-  {
-    "package": "shinyFiles",
-    "oncran": true
-  },
-  {
     "package": "ambient",
     "oncran": true
   },
   {
-    "package": "ggfx",
+    "package": "curry",
+    "oncran": true
+  },
+  {
+    "package": "densityClust",
     "oncran": true
   },
   {
@@ -28,7 +16,27 @@
     "oncran": true
   },
   {
+    "package": "fiery",
+    "oncran": true
+  },
+  {
+    "package": "gganimate",
+    "oncran": true
+  },
+  {
+    "package": "ggforce",
+    "oncran": true
+  },
+  {
+    "package": "ggfx",
+    "oncran": true
+  },
+  {
     "package": "ggraph",
+    "oncran": true
+  },
+  {
+    "package": "lime",
     "oncran": true
   },
   {
@@ -36,19 +44,7 @@
     "oncran": true
   },
   {
-    "package": "tidygraph",
-    "oncran": true
-  },
-  {
     "package": "patchwork",
-    "oncran": true
-  },
-  {
-    "package": "fiery",
-    "oncran": true
-  },
-  {
-    "package": "tweenr",
     "oncran": true
   },
   {
@@ -60,19 +56,23 @@
     "oncran": true
   },
   {
-    "package": "gganimate",
-    "oncran": true
-  },
-  {
     "package": "scico",
     "oncran": true
   },
   {
-    "package": "densityClust",
+    "package": "shinyFiles",
     "oncran": true
   },
   {
-    "package": "curry",
+    "package": "tidygraph",
+    "oncran": true
+  },
+  {
+    "package": "transformr",
+    "oncran": true
+  },
+  {
+    "package": "tweenr",
     "oncran": true
   }
 ]

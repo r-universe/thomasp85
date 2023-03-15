@@ -3,34 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lime"]
-	path = lime
-	url = https://github.com/thomasp85/lime
-	shallow = true
-	registered = true
-[submodule "ggforce"]
-	path = ggforce
-	url = https://github.com/thomasp85/ggforce
-	shallow = true
-	registered = true
-[submodule "transformr"]
-	path = transformr
-	url = https://github.com/thomasp85/transformr
-	shallow = true
-	registered = true
-[submodule "shinyFiles"]
-	path = shinyFiles
-	url = https://github.com/thomasp85/shinyfiles
-	shallow = true
-	registered = true
 [submodule "ambient"]
 	path = ambient
 	url = https://github.com/thomasp85/ambient
 	shallow = true
 	registered = true
-[submodule "ggfx"]
-	path = ggfx
-	url = https://github.com/thomasp85/ggfx
+[submodule "curry"]
+	path = curry
+	url = https://github.com/thomasp85/curry
+	shallow = true
+	registered = true
+[submodule "densityClust"]
+	path = densityClust
+	url = https://github.com/thomasp85/densityclust
 	shallow = true
 	registered = true
 [submodule "farver"]
@@ -38,9 +23,34 @@
 	url = https://github.com/thomasp85/farver
 	shallow = true
 	registered = true
+[submodule "fiery"]
+	path = fiery
+	url = https://github.com/thomasp85/fiery
+	shallow = true
+	registered = true
+[submodule "gganimate"]
+	path = gganimate
+	url = https://github.com/thomasp85/gganimate
+	shallow = true
+	registered = true
+[submodule "ggforce"]
+	path = ggforce
+	url = https://github.com/thomasp85/ggforce
+	shallow = true
+	registered = true
+[submodule "ggfx"]
+	path = ggfx
+	url = https://github.com/thomasp85/ggfx
+	shallow = true
+	registered = true
 [submodule "ggraph"]
 	path = ggraph
 	url = https://github.com/thomasp85/ggraph
+	shallow = true
+	registered = true
+[submodule "lime"]
+	path = lime
+	url = https://github.com/thomasp85/lime
 	shallow = true
 	registered = true
 [submodule "particles"]
@@ -48,24 +58,9 @@
 	url = https://github.com/thomasp85/particles
 	shallow = true
 	registered = true
-[submodule "tidygraph"]
-	path = tidygraph
-	url = https://github.com/thomasp85/tidygraph
-	shallow = true
-	registered = true
 [submodule "patchwork"]
 	path = patchwork
 	url = https://github.com/thomasp85/patchwork
-	shallow = true
-	registered = true
-[submodule "fiery"]
-	path = fiery
-	url = https://github.com/thomasp85/fiery
-	shallow = true
-	registered = true
-[submodule "tweenr"]
-	path = tweenr
-	url = https://github.com/thomasp85/tweenr
 	shallow = true
 	registered = true
 [submodule "reqres"]
@@ -78,23 +73,28 @@
 	url = https://github.com/thomasp85/routr
 	shallow = true
 	registered = true
-[submodule "gganimate"]
-	path = gganimate
-	url = https://github.com/thomasp85/gganimate
-	shallow = true
-	registered = true
 [submodule "scico"]
 	path = scico
 	url = https://github.com/thomasp85/scico
 	shallow = true
 	registered = true
-[submodule "densityClust"]
-	path = densityClust
-	url = https://github.com/thomasp85/densityclust
+[submodule "shinyFiles"]
+	path = shinyFiles
+	url = https://github.com/thomasp85/shinyfiles
 	shallow = true
 	registered = true
-[submodule "curry"]
-	path = curry
-	url = https://github.com/thomasp85/curry
+[submodule "tidygraph"]
+	path = tidygraph
+	url = https://github.com/thomasp85/tidygraph
+	shallow = true
+	registered = true
+[submodule "transformr"]
+	path = transformr
+	url = https://github.com/thomasp85/transformr
+	shallow = true
+	registered = true
+[submodule "tweenr"]
+	path = tweenr
+	url = https://github.com/thomasp85/tweenr
 	shallow = true
 	registered = true

@@ -36,6 +36,10 @@
     "oncran": true
   },
   {
+    "package": "hierarchicalSets",
+    "oncran": true
+  },
+  {
     "package": "lime",
     "oncran": true
   },

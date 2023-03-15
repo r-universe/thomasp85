@@ -48,6 +48,11 @@
 	url = https://github.com/thomasp85/ggraph
 	shallow = true
 	registered = true
+[submodule "hierarchicalSets"]
+	path = hierarchicalSets
+	url = https://github.com/thomasp85/hierarchicalsets
+	shallow = true
+	registered = true
 [submodule "lime"]
 	path = lime
 	url = https://github.com/thomasp85/lime

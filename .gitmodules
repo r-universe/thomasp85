@@ -26,6 +26,10 @@
 [submodule "ggfx"]
 	path = ggfx
 	url = https://github.com/thomasp85/ggfx
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "ggraph"]
 	path = ggraph
 	url = https://github.com/thomasp85/ggraph

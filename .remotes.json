@@ -4,5 +4,11 @@
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["gganimate"],
     "from": "gganimate"
+  },
+  {
+    "package": "transformr",
+    "url": "https://github.com/thomasp85/transformr",
+    "via": ["gganimate"],
+    "from": "gganimate"
   }
 ]

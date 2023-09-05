@@ -10,5 +10,11 @@
     "url": "https://github.com/thomasp85/transformr",
     "via": ["gganimate"],
     "from": "gganimate"
+  },
+  {
+    "package": "tweenr",
+    "url": "https://github.com/thomasp85/tweenr",
+    "via": ["gganimate"],
+    "from": "gganimate"
   }
 ]

@@ -6,6 +6,12 @@
     "from": "gganimate"
   },
   {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["ggraph"],
+    "from": "ggraph"
+  },
+  {
     "package": "transformr",
     "url": "https://github.com/thomasp85/transformr",
     "via": ["gganimate"],

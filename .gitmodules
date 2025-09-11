@@ -17,6 +17,9 @@
 [submodule "fiery"]
 	path = fiery
 	url = https://github.com/thomasp85/fiery
+[submodule "firesafety"]
+	path = firesafety
+	url = https://github.com/thomasp85/firesafety
 [submodule "firesale"]
 	path = firesale
 	url = https://github.com/thomasp85/firesale

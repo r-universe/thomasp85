@@ -4,5 +4,11 @@
     "url": "https://github.com/rstudio/promises",
     "via": ["routr"],
     "from": "routr"
+  },
+  {
+    "package": "reqres",
+    "url": "https://github.com/thomasp85/reqres",
+    "via": ["fiery"],
+    "from": "fiery"
   }
 ]

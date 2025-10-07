@@ -50,6 +50,10 @@
 [submodule "patchwork"]
 	path = patchwork
 	url = https://github.com/thomasp85/patchwork
+[submodule "promises"]
+	path = promises
+	url = https://github.com/rstudio/promises
+	registered = false
 [submodule "reqres"]
 	path = reqres
 	url = https://github.com/thomasp85/reqres

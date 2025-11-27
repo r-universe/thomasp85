@@ -41,9 +41,6 @@
 [submodule "hierarchicalSets"]
 	path = hierarchicalSets
 	url = https://github.com/thomasp85/hierarchicalsets
-[submodule "lime"]
-	path = lime
-	url = https://github.com/thomasp85/lime
 [submodule "particles"]
 	path = particles
 	url = https://github.com/thomasp85/particles

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "reqres",
+    "url": "https://github.com/thomasp85/reqres",
+    "via": ["routr"],
+    "from": "routr"
+  },
+  {
+    "package": "waysign",
+    "url": "https://github.com/thomasp85/waysign",
+    "via": ["routr"],
+    "from": "routr"
+  }
+]

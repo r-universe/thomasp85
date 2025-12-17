@@ -71,4 +71,3 @@
 [submodule "waysign"]
 	path = waysign
 	url = https://github.com/thomasp85/waysign
-	registered = false
